@@ -15,7 +15,7 @@ const Navbar = () => {
     <nav className="flex justify-between items-center p-4 bg-gray-100">
       {/* Brand or Logo */}
       <div className="text-xl font-bold">
-        <Link to="/">MyApp</Link>
+        <Link to="/">MyApp!</Link>
       </div>
       {/* Navigation Links */}
       <div>
